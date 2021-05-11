@@ -23,7 +23,7 @@ Hi my name is Mohammad Mahdi Paydar Puya and I am 14. I'm trying to be a program
     <li>
         <a href="mahdipuya.ir">mahdipuya.ir</a>
         <br>
-        <i>But this site is not made now I made it later.</i>
+        <i>But this site is not made now I will make when I learn <b>Django</b></i>
     </li>
     <br>
     <li>
