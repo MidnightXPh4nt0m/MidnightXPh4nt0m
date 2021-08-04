@@ -2,7 +2,7 @@
 
 ## I'm Mohammad Mahdi Paydar Puya
 
-Hi my name is Mohammad Mahdi Paydar Puya and I am 14. I'm trying to be a programmer.
+Hi my name is Mohammad Mahdi Paydar Puya and I love working.
 
 ## Technolagies
 
@@ -21,23 +21,10 @@ Hi my name is Mohammad Mahdi Paydar Puya and I am 14. I'm trying to be a program
 
 <br>
 
-## Where can you find me
-<ul>
-    <li>
-        <a href="mahdipuya.ir">mahdipuya.ir</a>
-        <br>
-        <i>But this site is not made now I will make when I learn <b>Django</b></i>
-    </li>
-    <br>
-    <li>
-    <a href="https://codepen.io/mahdipuya">Codepen acount</a>
-    </li>
-    <br>
-    <li>
-        <a href="mailto:mahdipayda9100@gmail.com">mahdipaydar9100@gmail.com</a>
-    </li>
-    <br>
-    <li>
-        <a href="mailto:mahdipuya@outlook.com"> mahdipuya@outlook.com</a>
-    </li>
-</ul>
+## Where you can find me
+
+- [mahdipuya.ir](https://mahdipuya.ir)  
+  *This site is not ceated yet. I just bought the domain.*
+- [Codepen](https://codepen.io/mahdipuya)
+- [Gmail](mailto:mahdipayda9100@gmail.com)
+- [Outlook](mailto:mahdipuya@outlook.com)
