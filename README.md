@@ -2,7 +2,7 @@
 
 ## I'm Mohammad Mahdi Paydar Puya
 
-Hi my name is Mohammad Mahdi Paydar Puya and I love working.
+I am a student yet. I enjoy web designing, programming and graphic staff like motion graphic and 3D modeling. I work as a freelancer in summer.
 
 ## Technolagies
 
@@ -23,8 +23,6 @@ Hi my name is Mohammad Mahdi Paydar Puya and I love working.
 
 ## Where you can find me
 
-- [mahdipuya.ir](https://mahdipuya.ir)  
-  *This site is not ceated yet. I just bought the domain.*
 - [Codepen](https://codepen.io/mahdipuya)
 - [Gmail](mailto:mahdipayda9100@gmail.com)
 - [Outlook](mailto:mahdipuya@outlook.com)
