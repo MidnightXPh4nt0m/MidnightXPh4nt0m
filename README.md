@@ -1,8 +1,5 @@
-# Hi there 👋
-
-## I'm Mohammad Mahdi Paydar Puya
-
-I am a student yet. I enjoy web designing, programming and graphic staff like motion graphic and 3D modeling. I work as a freelancer in summer.
+# MidnightXPh@nt0m
+All day, every day, forever, behing haited by those who cant understand me
 
 ## Technolagies
 
@@ -18,11 +15,3 @@ I am a student yet. I enjoy web designing, programming and graphic staff like mo
     <img src="./images/django.svg" alt="Django" width="8%" title="Django">
     <img src="./images/git.svg" alt="Git" width="15%" title="Git">
 </div>
-
-<br>
-
-## Where you can find me
-
-- [Codepen](https://codepen.io/mahdipuya)
-- [Gmail](mailto:mahdipayda9100@gmail.com)
-- [Outlook](mailto:mahdipuya@outlook.com)
